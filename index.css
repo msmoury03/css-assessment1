@@ -1,0 +1,54 @@
+h1{
+    color: red;
+}
+
+h3{
+    color: red;
+    font-style: italic;
+}
+
+li{
+    color: rgb(119, 21, 21);
+}
+
+.under1{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.under2{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.under3{
+    text-decoration: underline;
+    font-style: italic;
+}  
+
+ul li{
+    letter-spacing: 5px;
+}
+
+p{
+    color: rgb(85, 12, 12);
+}
+
+.btn{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.logo{
+    margin: 47%;
+}
+
+.btn1 {
+    
+    color: rgb(73, 10, 173);
+    height: 35px;
+    width: 70px;
+}
